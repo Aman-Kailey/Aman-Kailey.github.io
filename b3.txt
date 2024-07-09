@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parrot Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('2a.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        img {
+            height: 400px;
+            width: 400px;
+            margin: 20px 0;
+        }
+        h1 {
+            font-size: 44px;
+            text-align: center;
+            color: #5c3317;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+            line-height: 1.6;
+            background: rgba(255, 255, 255, 0.8);
+            display: inline-block;
+            padding: 10px;
+            border-radius: 10px;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Parrot</h1>
+    <img src="3b.png" alt="Parrot image">
+    <p>
+        The Parrot is a talking bird. <br>
+        It can imitate the human voice. <br>
+        It is found in almost all the warm countries. <br>
+        It generally lives in the hollows of trees.
+    </p>
+</body>
+</html>
